@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Explora&display=swap');
+
+h1 {
+    color: rgb(17, 17, 17);
+    margin: 0;
+    padding: 40px 0;
+    font-family: 'Explora', cursive;
+    letter-spacing: 5px;
+    font-size: 70px;
+}
