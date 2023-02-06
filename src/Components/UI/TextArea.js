@@ -33,6 +33,9 @@ const TextArea = (props) => {
             onFocus={textAreaFocusHandler}
             onBlur={textAreaBlurHandler}
         />
+        <a id='save-file' href="/">
+            <img src="https://i.ibb.co/WHD9dst/1257459.png" alt="save file"/>
+        </a>
         </div>
     );
     };

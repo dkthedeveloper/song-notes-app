@@ -1,15 +1,19 @@
 .App {
+  
   height: 100vh;
   text-align: center;
   background-color: rgb(255, 255, 255);
+  margin: auto;
 }
 
 main  {
   margin: auto;
   width: 70%;
+  max-width: 800px;
   display: flex;
   align-items: flex-start;
   justify-content: space-around;
   margin-top: 50px;
+  padding-top: 20px;
 }
 

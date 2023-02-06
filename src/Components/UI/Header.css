@@ -1,10 +1,54 @@
 @import url('https://fonts.googleapis.com/css2?family=Explora&display=swap');
 
+.header {
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px 5px 10px;
+    margin: auto;
+    border-bottom: 1px solid #ccc;
+}
+
 h1 {
     color: rgb(17, 17, 17);
     margin: 0;
-    padding: 40px 0;
-    font-family: 'Explora', sans-serif;
-    letter-spacing: 5px;
-    font-size: 70px;
+    font-family: Handwriting-Dakota;
+    font-size: 30px;
+}
+
+.nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 200px;
+    padding: 0 20px;
+}
+
+.nav ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: auto;
+}
+
+.nav ul li {
+    font-size: 18px;
+    min-width: fit-content;
+    padding: 0 5px;
+    
+}
+
+.nav ul li a {
+    text-decoration: none;
+    color: rgb(17, 17, 17);
+    padding: 0 5px;
+}
+
+.nav ul li a:hover {
+    color: rgb(65, 127, 214);
+    text-decoration: underline;
 }
