@@ -1,0 +1,12 @@
+textarea {
+    width: 500px;
+    height: 500px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff8ac8f;
+    font-size: 20px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    box-shadow: 10px 8px 10px rgb(142, 142, 142);
+    margin-right: 30px;
+}

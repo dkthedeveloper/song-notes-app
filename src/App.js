@@ -1,6 +1,7 @@
 import './App.css';
 import Header from './Components/UI/Header';
 import AudioRecorder from './Components/UI/AudioRecorder';
+import TextArea from './Components/UI/TextArea';
 
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <div className="App">
       <Header/>
       <main>
+        <TextArea/>
       <AudioRecorder/>
       </main>
     </div>

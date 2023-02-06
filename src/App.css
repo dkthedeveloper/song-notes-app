@@ -1,13 +1,15 @@
 .App {
   height: 100vh;
   text-align: center;
-  background-color: rgb(241, 241, 243);
+  background-color: rgb(255, 255, 255);
 }
 
 main  {
+  margin: auto;
+  width: 70%;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  align-items: flex-start;
+  justify-content: space-around;
   margin-top: 50px;
 }
 
