@@ -1,5 +1,6 @@
 {
   "name": "song-notes-app",
+  "homepage": "http://dkthedev.com/song-notes-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
