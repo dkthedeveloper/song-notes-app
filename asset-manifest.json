@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/song-notes-app/static/css/main.aec7c9ba.css",
+    "main.js": "/song-notes-app/static/js/main.02d23988.js",
+    "static/js/787.20bcf54d.chunk.js": "/song-notes-app/static/js/787.20bcf54d.chunk.js",
+    "index.html": "/song-notes-app/index.html",
+    "main.aec7c9ba.css.map": "/song-notes-app/static/css/main.aec7c9ba.css.map",
+    "main.02d23988.js.map": "/song-notes-app/static/js/main.02d23988.js.map",
+    "787.20bcf54d.chunk.js.map": "/song-notes-app/static/js/787.20bcf54d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aec7c9ba.css",
+    "static/js/main.02d23988.js"
+  ]
+}
