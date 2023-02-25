@@ -5,8 +5,8 @@ const Header = (props) => {
   return (
     <div className="header">
       <div className="logo">
-        <a href="/" style={{ textDecoration: 'none' }}>
-        <h1>SongNotes</h1>
+        <a href="/" style={{ textDecoration: "none" }}>
+          <h1>SongNotes</h1>
         </a>
       </div>
       <div className="nav">
@@ -16,7 +16,7 @@ const Header = (props) => {
           </li>
           <li>
             <a href="/log-in">Log In</a>
-          /
+            <span id="dash"> /</span>
             <a href="/sign-up">Sign Up</a>
           </li>
         </ul>

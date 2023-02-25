@@ -1,9 +1,10 @@
 .audio-recorder {
-    width: 70vw;
-    min-width: 530px;
+    width: 50%;
+    min-width: 50%;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 
 .holder {
@@ -16,7 +17,7 @@
     background-image: linear-gradient(0deg, #000000 0%, #7d7d7d 100%);
     border-radius: 50px;
     width: 10vw;
-    padding: 20px 20px;
+    padding: 20px 50px;
     margin: auto;
     height: 50px;
     border: .5px solid #000;
@@ -75,6 +76,13 @@
 
 .delete-button {
     margin-left: 10px;
+}
+
+.recording-btns {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 0;
 }
 
 .download-link, .delete-button {
@@ -139,3 +147,18 @@ audio::-webkit-media-controls-mute-button {
     margin-right: 10px;
 }
 
+@media only screen and (max-width: 992px) {
+    .recordings li {
+        flex-direction: column;
+       
+    }
+}
+
+@media only screen and (max-width: 768px) {
+   
+
+    .audio-recorder {
+        width: 100%;
+        min-width: 100%;
+    }
+}

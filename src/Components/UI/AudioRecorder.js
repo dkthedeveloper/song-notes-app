@@ -77,6 +77,7 @@ const AudioRecorder = (props) => {
         {recordings.map((recording) => (
           <li key={recording.id} id={recording.id}>
             <audio controls src={recording.url} />
+            <div className="recording-btns">
             <a
               className="download-link"
               href={recording.url}
@@ -90,6 +91,7 @@ const AudioRecorder = (props) => {
             >
               Delete
             </a>
+            </div>
           </li>
         ))}
       </ul>
