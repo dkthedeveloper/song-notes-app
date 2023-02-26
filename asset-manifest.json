@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/song-notes-app/static/css/main.98501552.css",
-    "main.js": "/song-notes-app/static/js/main.a5ad5405.js",
+    "main.css": "/song-notes-app/static/css/main.fb83e48e.css",
+    "main.js": "/song-notes-app/static/js/main.4b6941a6.js",
     "static/js/787.20bcf54d.chunk.js": "/song-notes-app/static/js/787.20bcf54d.chunk.js",
     "index.html": "/song-notes-app/index.html",
-    "main.98501552.css.map": "/song-notes-app/static/css/main.98501552.css.map",
-    "main.a5ad5405.js.map": "/song-notes-app/static/js/main.a5ad5405.js.map",
+    "main.fb83e48e.css.map": "/song-notes-app/static/css/main.fb83e48e.css.map",
+    "main.4b6941a6.js.map": "/song-notes-app/static/js/main.4b6941a6.js.map",
     "787.20bcf54d.chunk.js.map": "/song-notes-app/static/js/787.20bcf54d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98501552.css",
-    "static/js/main.a5ad5405.js"
+    "static/css/main.fb83e48e.css",
+    "static/js/main.4b6941a6.js"
   ]
 }
