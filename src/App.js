@@ -1,7 +1,7 @@
-import './App.css';
 import Header from './Components/UI/Header';
 import AudioRecorder from './Components/UI/AudioRecorder';
 import TextArea from './Components/UI/TextArea';
+import './App.css';
 
 
 function App() {
