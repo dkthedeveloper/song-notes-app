@@ -8,7 +8,7 @@ function Header () {
     <div className="my-component-container">
     <Navbar bg="light" expand="lg" style={{width:'100%', padding:'5px 20px'}}>
       <Container style={{maxWidth:'100%'}}>
-        <Navbar.Brand href="#home" style={{fontFamily:'Handwriting-Dakota, "Brush Script MT", cursive',fontSize:'30px', fontWeight:'900'}}>SongNotes</Navbar.Brand>
+        <a href="#home"><img src="https://i.ibb.co/S6wcKwb/Song-Notes-logo2.png" alt="logo" style={{width:'120px', margin:'7px 8px 0 0'}} /></a>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto" >
